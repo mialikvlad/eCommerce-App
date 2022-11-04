@@ -4,9 +4,7 @@
 
 1. **Экран «Main»**
 
-
-** 
-**
+![image](https://user-images.githubusercontent.com/84706749/199922053-b62ebaab-85fe-4ad5-ad7c-8bdc3be2050c.png)
 
 
 
