@@ -4,7 +4,7 @@
 
 1. **Экран «Main»**
 
-![image](https://user-images.githubusercontent.com/84706749/199922053-b62ebaab-85fe-4ad5-ad7c-8bdc3be2050c.png)
+![image](https://user-images.githubusercontent.com/84706749/199922053-b62ebaab-85fe-4ad5-ad7c-8bdc3be2050c.png)  
 ![image](https://user-images.githubusercontent.com/84706749/199922171-cf4774d3-e11d-48b1-84da-63da77418451.png)
 
 
@@ -59,7 +59,7 @@
 
 
 
-2. ` `**Экран  «Product Details»**
+2. ` `**Экран  «Product Details»**  
 ![image](https://user-images.githubusercontent.com/84706749/199922250-12c4f7ef-8341-491a-a75b-6158a6991c20.png)
 
 
@@ -82,7 +82,7 @@
 
 
 
-3. **Экран «My Cart»**
+3. **Экран «My Cart»**  
 ![image](https://user-images.githubusercontent.com/84706749/199922283-a0e1e5d4-d95c-4f20-b3a5-478d913a76c2.png)
 
 
